@@ -1,0 +1,12 @@
+{
+  "minimum_history": {
+    "autoencoder": 4,
+    "isolation_forest": 5,
+    "statistical": 3
+  },
+  "data_splitting": {
+    "test_size": 0.2,
+    "test_split_amount_of_prices": 2,
+    "random_state": 42
+  }
+}
