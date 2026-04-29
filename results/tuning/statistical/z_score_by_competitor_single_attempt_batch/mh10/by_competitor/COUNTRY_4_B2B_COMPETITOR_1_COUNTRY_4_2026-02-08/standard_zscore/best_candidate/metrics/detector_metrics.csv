@@ -1,0 +1,3 @@
+run_id,candidate_id,dataset_split,detector_name,accuracy,precision,recall,tnr,f1,g_mean,tp,fp,fn,tn,n_rows,n_injected,n_predicted
+standard_zscore__threshold_3p000,standard_zscore__threshold_3p000,new_prices,standard_zscore,0.9354493580599144,0.6137990266246779,0.9558626839054837,0.933181435435138,0.7475592747559275,0.9444539752924982,2144,1349,99,18840,22432,2243,3493
+standard_zscore__threshold_3p000,standard_zscore__threshold_3p000,new_products,standard_zscore,0.8471103245936757,0.36110205412455165,0.687781400403664,0.8648107902997689,0.47356887059703884,0.7712332827598758,4430,7838,2011,50140,64419,6441,12268

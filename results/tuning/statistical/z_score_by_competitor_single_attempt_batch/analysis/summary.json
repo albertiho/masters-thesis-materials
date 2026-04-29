@@ -1,0 +1,21 @@
+{
+  "results_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\by_competitor_single_attempt_batch",
+  "subset_mh_values": [
+    "mh5",
+    "mh10",
+    "mh15",
+    "mh20",
+    "mh25",
+    "mh30"
+  ],
+  "best_configuration_count": 292,
+  "guidance_case_count": 12,
+  "guidance_detector_count": 1,
+  "path_warning_count": 0,
+  "empty_top_level_mh_count": 0,
+  "additional_warning_count": 0,
+  "config_match_rate": 0.75,
+  "median_combined_f1_regret": 0.0,
+  "median_rank_score_regret": 0.0,
+  "max_combined_f1_regret": 0.14154104410925888
+}

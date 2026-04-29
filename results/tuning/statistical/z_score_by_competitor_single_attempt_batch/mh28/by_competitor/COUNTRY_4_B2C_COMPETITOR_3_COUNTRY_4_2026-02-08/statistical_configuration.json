@@ -1,0 +1,19 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "by_competitor_single_attempt_batch",
+  "mh_level": "mh28",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08",
+  "dataset_name": "COMPETITOR_3_COUNTRY_4",
+  "status": "partial",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh28\\by_competitor\\COUNTRY_4_B2C_COMPETITOR_3_COUNTRY_4_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "detector_families_requested": [
+    "standard_zscore"
+  ],
+  "detectors": {},
+  "aggregate_metrics": {},
+  "generated_at": "2026-03-22T20:32:57.134282+00:00"
+}

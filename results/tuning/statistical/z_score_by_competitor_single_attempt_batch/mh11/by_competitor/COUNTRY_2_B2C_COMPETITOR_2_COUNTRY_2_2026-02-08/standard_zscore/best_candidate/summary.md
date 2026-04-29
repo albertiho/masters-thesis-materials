@@ -1,0 +1,19 @@
+# Tuning Summary
+
+- Run ID: `standard_zscore__threshold_2p750`
+- Schema version: `phase2.v1`
+- Splits: new_prices, new_products
+- Detector metric rows: 2
+
+## new_prices
+
+| Candidate | Detector | Precision | Recall | F1 | TP | FP | FN | TN |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| standard_zscore__threshold_2p750 | standard_zscore | 0.5095 | 0.9205 | 0.6559 | 5983 | 5760 | 517 | 52748 |
+
+## new_products
+
+| Candidate | Detector | Precision | Recall | F1 | TP | FP | FN | TN |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| standard_zscore__threshold_2p750 | standard_zscore | 0.3655 | 0.6842 | 0.4765 | 13749 | 23868 | 6346 | 156991 |
+

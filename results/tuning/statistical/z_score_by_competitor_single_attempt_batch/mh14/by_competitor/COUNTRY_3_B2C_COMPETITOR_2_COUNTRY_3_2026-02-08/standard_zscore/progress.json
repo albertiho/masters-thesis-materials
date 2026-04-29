@@ -1,0 +1,34 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "by_competitor_single_attempt_batch",
+  "mh_level": "mh14",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_3/B2C/COMPETITOR_2_COUNTRY_3_2026-02-08",
+  "dataset_name": "COMPETITOR_2_COUNTRY_3",
+  "detector_family": "standard_zscore",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\by_competitor_single_attempt_batch\\mh14\\by_competitor\\COUNTRY_3_B2C_COMPETITOR_2_COUNTRY_3_2026-02-08\\standard_zscore",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh14\\by_competitor\\COUNTRY_3_B2C_COMPETITOR_2_COUNTRY_3_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "complete",
+  "completed_stage": "finalized",
+  "active_stage": "idle",
+  "started_at": "2026-03-22T15:38:50.205773+00:00",
+  "updated_at": "2026-03-22T15:53:46.499521+00:00",
+  "completed_at": "2026-03-22T15:53:46.499521+00:00",
+  "error": "",
+  "candidate_count": 9,
+  "candidate_ids": [
+    "standard_zscore__threshold_2p000",
+    "standard_zscore__threshold_2p500",
+    "standard_zscore__threshold_2p750",
+    "standard_zscore__threshold_3p000",
+    "standard_zscore__threshold_3p250",
+    "standard_zscore__threshold_3p500",
+    "standard_zscore__threshold_4p000",
+    "standard_zscore__threshold_4p500",
+    "standard_zscore__threshold_5p000"
+  ],
+  "best_candidate_id": "standard_zscore__threshold_2p750"
+}

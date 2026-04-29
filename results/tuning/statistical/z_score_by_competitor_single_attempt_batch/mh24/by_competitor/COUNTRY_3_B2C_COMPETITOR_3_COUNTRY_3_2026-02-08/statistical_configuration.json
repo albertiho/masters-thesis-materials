@@ -1,0 +1,69 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "by_competitor_single_attempt_batch",
+  "mh_level": "mh24",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_3/B2C/COMPETITOR_3_COUNTRY_3_2026-02-08",
+  "dataset_name": "COMPETITOR_3_COUNTRY_3",
+  "status": "complete",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh24\\by_competitor\\COUNTRY_3_B2C_COMPETITOR_3_COUNTRY_3_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "detector_families_requested": [
+    "standard_zscore"
+  ],
+  "detectors": {
+    "standard_zscore": {
+      "threshold": 2.5
+    }
+  },
+  "aggregate_metrics": {
+    "standard_zscore": {
+      "schema_version": "phase2.v1",
+      "sweep_id": "by_competitor_single_attempt_batch",
+      "run_id": "standard_zscore__threshold_2p500",
+      "candidate_id": "standard_zscore__threshold_2p500",
+      "experiment_family": "tuning",
+      "detector_family": "standard_zscore",
+      "dataset_name": "COMPETITOR_3_COUNTRY_3",
+      "dataset_granularity": "by_competitor",
+      "status": "ok",
+      "error": "",
+      "stage": "coarse",
+      "training_time_sec": 2.367967400001362,
+      "n_train": 36867,
+      "n_eval_prices": 3156,
+      "n_eval_products": 10043,
+      "attempt_count": 1,
+      "combined_precision": 0.670727969348659,
+      "combined_recall": 0.8508986277113767,
+      "combined_f1": 0.7475962216269562,
+      "weighted_f1_mean": 0.7475962216269562,
+      "rank_score": 0.8956612538883607,
+      "default_distance": 0.16666666666666666,
+      "new_prices_accuracy_mean": 0.9702154626108999,
+      "new_prices_accuracy_std": 0.0,
+      "new_prices_precision_mean": 0.7931034482758621,
+      "new_prices_precision_std": 0.0,
+      "new_prices_recall_mean": 0.9492063492063492,
+      "new_prices_recall_std": 0.0,
+      "new_prices_f1_mean": 0.8641618497109826,
+      "new_prices_f1_std": 0.0,
+      "new_prices_g_mean_mean": 0.9608047531215478,
+      "new_prices_g_mean_std": 0.0,
+      "new_products_accuracy_mean": 0.8629891466693219,
+      "new_products_accuracy_std": 0.0,
+      "new_products_precision_mean": 0.3851851851851852,
+      "new_products_precision_std": 0.0,
+      "new_products_recall_mean": 0.6215139442231076,
+      "new_products_recall_std": 0.0,
+      "new_products_f1_mean": 0.475609756097561,
+      "new_products_f1_std": 0.0,
+      "new_products_g_mean_mean": 0.7436597556775911,
+      "new_products_g_mean_std": 0.0,
+      "threshold": 2.5
+    }
+  },
+  "generated_at": "2026-03-22T20:32:57.107272+00:00"
+}

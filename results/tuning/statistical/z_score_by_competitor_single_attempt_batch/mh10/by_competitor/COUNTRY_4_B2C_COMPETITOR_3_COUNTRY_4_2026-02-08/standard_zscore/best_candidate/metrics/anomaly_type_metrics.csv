@@ -1,0 +1,3 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+standard_zscore__threshold_3p000,standard_zscore__threshold_3p000,new_prices,standard_zscore,price_drop,1,1,1.0
+standard_zscore__threshold_3p000,standard_zscore__threshold_3p000,new_products,standard_zscore,price_drop,1,0,0.0
