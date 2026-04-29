@@ -1,0 +1,15 @@
+# Heavy ML dependencies for the local training workflow.
+# CPU-only PyTorch is sufficient for the published reproduction path.
+
+# CPU-only PyTorch from official wheel index
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.9.1+cpu
+
+# ML libraries
+numpy==2.2.6
+scikit-learn==1.6.1
+sentence-transformers==3.4.1
+
+# Data processing
+pandas==2.2.3
+pyarrow==18.1.0

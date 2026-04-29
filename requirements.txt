@@ -1,0 +1,11 @@
+# Standalone thesis training repository - base dependencies
+# All versions are pinned for reproducibility.
+#
+# ML deps are in requirements-ml.txt.
+# Dev tools are in requirements-dev.txt.
+
+# Configuration
+python-dotenv==1.0.1
+
+# System monitoring
+psutil==6.1.1

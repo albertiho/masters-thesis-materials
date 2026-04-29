@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+*.pyo
+*.npz
+.env
+output/
+artifacts/
+data/training/derived/
+data-subsets/
