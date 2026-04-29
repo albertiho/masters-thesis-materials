@@ -23,6 +23,12 @@ The most useful provenance files are:
 - `results/tuning/statistical/all_global_single_attempt_batch/mh5/analysis/modified_zscore_scale/data_references.md`
 - `results/detector_combinations/all_competitors_all_countries_country_level_layered_finalists/analysis/thesis_metrics/data_references.md`
 
+Large row-level artifacts such as `predictions.parquet`,
+`injected_rows.parquet`, and `template_cache.joblib` are intentionally excluded
+from the GitHub release. See the README files under `results/`,
+`results/tuning/`, and `results/detector_combinations/` for the omitted file
+patterns, approximate sizes, and generator scripts.
+
 ## Setup Check
 
 Create the environment and run the normal test suite:
@@ -105,6 +111,10 @@ supporting CSV/JSON/Markdown summaries under `results/analysis/`,
    tree using `git diff` or a file comparison tool.
 5. If a difference is expected, update the related `data_references.md` or
    `summary.md` so the new provenance is explicit.
+
+If the validation task needs row-level predictions rather than aggregate
+metrics, first regenerate the omitted parquet artifacts with the run-specific
+script named in the relevant `results/**/README.md` file.
 
 Full reruns of tuning or detector-combination experiments can be expensive.
 When a result tree is missing, start from the script-specific documentation in

@@ -11,3 +11,10 @@ output/
 artifacts/
 data/training/derived/
 data-subsets/
+
+# Large generated result artifacts. These are important row-level audit data,
+# but they are derived from the source/split data and are too large for GitHub.
+results/**/*.parquet
+results/**/*.joblib
+results/**/*.log
+results/**/_cache_snapshots/
