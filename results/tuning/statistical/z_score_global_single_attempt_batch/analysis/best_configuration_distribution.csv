@@ -1,0 +1,27 @@
+detector_family,mh_level,candidate_id,configuration_json,case_count
+standard_zscore,mh5,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh6,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh7,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh8,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh9,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh10,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh11,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh12,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh13,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh14,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh15,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh16,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh17,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh18,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh19,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh20,standard_zscore__threshold_3p000,"{""threshold"": 3.0}",1
+standard_zscore,mh21,standard_zscore__threshold_3p000,"{""threshold"": 3.0}",1
+standard_zscore,mh22,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh23,standard_zscore__threshold_3p000,"{""threshold"": 3.0}",1
+standard_zscore,mh24,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh25,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh26,standard_zscore__threshold_2p750,"{""threshold"": 2.75}",1
+standard_zscore,mh27,standard_zscore__threshold_3p000,"{""threshold"": 3.0}",1
+standard_zscore,mh28,standard_zscore__threshold_3p000,"{""threshold"": 3.0}",1
+standard_zscore,mh29,standard_zscore__threshold_3p000,"{""threshold"": 3.0}",1
+standard_zscore,mh30,standard_zscore__threshold_3p000,"{""threshold"": 3.0}",1
