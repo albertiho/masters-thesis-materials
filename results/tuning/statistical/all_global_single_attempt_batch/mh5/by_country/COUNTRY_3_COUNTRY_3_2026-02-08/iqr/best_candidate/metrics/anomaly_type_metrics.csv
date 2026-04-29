@@ -1,0 +1,9 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_prices,iqr,decimal_shift,13260,12508,0.943288084464555
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_prices,iqr,list_price_violation,13309,12049,0.9053272221804793
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_prices,iqr,price_drop,13394,11490,0.8578467970733165
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_prices,iqr,price_spike,13274,12459,0.9386017779117071
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_products,iqr,decimal_shift,24942,14828,0.5944992382326999
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_products,iqr,list_price_violation,24953,7900,0.31659519897407123
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_products,iqr,price_drop,24889,12902,0.518381614367793
+iqr__multiplier_1p500,iqr__multiplier_1p500,new_products,iqr,price_spike,25029,14759,0.5896759758679931

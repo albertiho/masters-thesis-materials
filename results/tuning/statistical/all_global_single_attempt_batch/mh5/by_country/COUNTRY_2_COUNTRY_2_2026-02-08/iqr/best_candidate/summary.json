@@ -1,0 +1,36 @@
+{
+  "schema_version": "phase2.v1",
+  "run_id": "iqr__multiplier_1p250",
+  "experiment_family": "tuning",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "generated_at": "2026-03-25T06:13:17.089650+00:00",
+  "detector_count": 1,
+  "candidate_count": 1,
+  "split_summaries": {
+    "new_prices": {
+      "n_metric_rows": 1,
+      "best_detector": "iqr",
+      "best_candidate_id": "iqr__multiplier_1p250",
+      "best_f1": 0.5881409624459428,
+      "total_rows": 497970,
+      "total_injected": 49797
+    },
+    "new_products": {
+      "n_metric_rows": 1,
+      "best_detector": "iqr",
+      "best_candidate_id": "iqr__multiplier_1p250",
+      "best_f1": 0.3294718117865794,
+      "total_rows": 815693,
+      "total_injected": 81569
+    }
+  },
+  "anomaly_types": [
+    "decimal_shift",
+    "list_price_violation",
+    "price_drop",
+    "price_spike"
+  ]
+}

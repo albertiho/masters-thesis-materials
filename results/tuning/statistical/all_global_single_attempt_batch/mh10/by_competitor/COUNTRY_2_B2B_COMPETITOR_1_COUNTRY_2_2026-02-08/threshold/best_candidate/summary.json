@@ -1,0 +1,35 @@
+{
+  "schema_version": "phase2.v1",
+  "run_id": "threshold__price_change_threshold_0p500",
+  "experiment_family": "tuning",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "generated_at": "2026-03-25T16:56:59.007280+00:00",
+  "detector_count": 1,
+  "candidate_count": 1,
+  "split_summaries": {
+    "new_prices": {
+      "n_metric_rows": 1,
+      "best_detector": "threshold",
+      "best_candidate_id": "threshold__price_change_threshold_0p500",
+      "best_f1": 0.6917580591558659,
+      "total_rows": 42952,
+      "total_injected": 4295
+    },
+    "new_products": {
+      "n_metric_rows": 1,
+      "best_detector": "threshold",
+      "best_candidate_id": "threshold__price_change_threshold_0p500",
+      "best_f1": 0.5128912567786129,
+      "total_rows": 119467,
+      "total_injected": 11946
+    }
+  },
+  "anomaly_types": [
+    "decimal_shift",
+    "price_drop",
+    "price_spike"
+  ]
+}

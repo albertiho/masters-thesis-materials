@@ -1,0 +1,32 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "all_global_single_attempt_batch",
+  "mh_level": "mh10",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08",
+  "dataset_name": "COMPETITOR_1_COUNTRY_1",
+  "detector_family": "iqr",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\all_global_single_attempt_batch\\mh10\\by_competitor\\COUNTRY_1_B2B_COMPETITOR_1_COUNTRY_1_2026-02-08\\iqr",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh10\\by_competitor\\COUNTRY_1_B2B_COMPETITOR_1_COUNTRY_1_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "complete",
+  "completed_stage": "finalized",
+  "active_stage": "idle",
+  "started_at": "2026-03-25T13:36:41.818838+00:00",
+  "updated_at": "2026-03-25T13:37:47.173385+00:00",
+  "completed_at": "2026-03-25T13:37:47.173385+00:00",
+  "error": "",
+  "candidate_count": 7,
+  "candidate_ids": [
+    "iqr__multiplier_1p000",
+    "iqr__multiplier_1p250",
+    "iqr__multiplier_1p500",
+    "iqr__multiplier_1p750",
+    "iqr__multiplier_2p000",
+    "iqr__multiplier_2p500",
+    "iqr__multiplier_3p000"
+  ],
+  "best_candidate_id": "iqr__multiplier_1p500"
+}

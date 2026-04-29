@@ -1,0 +1,31 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "all_global_single_attempt_batch",
+  "mh_level": "mh5",
+  "granularity": "by_country",
+  "scope_id": "COUNTRY_3/COUNTRY_3_2026-02-08",
+  "dataset_name": "COUNTRY_3",
+  "detector_family": "hybrid_avg",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\all_global_single_attempt_batch\\mh5\\by_country\\COUNTRY_3_COUNTRY_3_2026-02-08\\hybrid_avg",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh5\\by_country\\COUNTRY_3_COUNTRY_3_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "complete",
+  "completed_stage": "finalized",
+  "active_stage": "idle",
+  "started_at": "2026-03-25T06:52:50.380910+00:00",
+  "updated_at": "2026-03-25T08:01:51.902748+00:00",
+  "completed_at": "2026-03-25T08:01:51.902748+00:00",
+  "error": "",
+  "candidate_count": 6,
+  "candidate_ids": [
+    "hybrid_avg__threshold_1p000",
+    "hybrid_avg__threshold_1p500",
+    "hybrid_avg__threshold_2p000",
+    "hybrid_avg__threshold_2p500",
+    "hybrid_avg__threshold_2p750",
+    "hybrid_avg__threshold_3p000"
+  ],
+  "best_candidate_id": "hybrid_avg__threshold_3p000"
+}

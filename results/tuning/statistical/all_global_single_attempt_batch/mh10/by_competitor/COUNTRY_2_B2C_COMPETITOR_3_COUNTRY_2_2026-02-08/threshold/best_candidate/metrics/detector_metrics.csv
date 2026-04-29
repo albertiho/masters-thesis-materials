@@ -1,0 +1,3 @@
+run_id,candidate_id,dataset_split,detector_name,accuracy,precision,recall,tnr,f1,g_mean,tp,fp,fn,tn,n_rows,n_injected,n_predicted
+threshold__price_change_threshold_0p100,threshold__price_change_threshold_0p100,new_prices,threshold,0.9821601514351118,0.8495504776175313,0.9984041382346467,0.9803553522952383,0.9179821898401133,0.9893385874775383,18143,3213,29,160343,181728,18172,21356
+threshold__price_change_threshold_0p100,threshold__price_change_threshold_0p100,new_products,threshold,0.7765604260442596,0.2979613950474329,0.9102651478272158,0.7617047208319511,0.44896195156307533,0.8326783654621898,28048,66085,2765,211239,308137,30813,94133

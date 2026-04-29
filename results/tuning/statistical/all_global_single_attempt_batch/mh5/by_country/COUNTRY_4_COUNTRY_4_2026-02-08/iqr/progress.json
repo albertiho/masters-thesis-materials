@@ -1,0 +1,32 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "all_global_single_attempt_batch",
+  "mh_level": "mh5",
+  "granularity": "by_country",
+  "scope_id": "COUNTRY_4/COUNTRY_4_2026-02-08",
+  "dataset_name": "COUNTRY_4",
+  "detector_family": "iqr",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\all_global_single_attempt_batch\\mh5\\by_country\\COUNTRY_4_COUNTRY_4_2026-02-08\\iqr",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh5\\by_country\\COUNTRY_4_COUNTRY_4_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "complete",
+  "completed_stage": "finalized",
+  "active_stage": "idle",
+  "started_at": "2026-03-25T08:40:00.891043+00:00",
+  "updated_at": "2026-03-25T08:57:08.856268+00:00",
+  "completed_at": "2026-03-25T08:57:08.856268+00:00",
+  "error": "",
+  "candidate_count": 7,
+  "candidate_ids": [
+    "iqr__multiplier_1p000",
+    "iqr__multiplier_1p500",
+    "iqr__multiplier_1p750",
+    "iqr__multiplier_2p000",
+    "iqr__multiplier_2p250",
+    "iqr__multiplier_2p500",
+    "iqr__multiplier_3p000"
+  ],
+  "best_candidate_id": "iqr__multiplier_2p000"
+}
