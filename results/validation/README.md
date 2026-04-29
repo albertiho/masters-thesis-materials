@@ -1,15 +1,17 @@
 # Validation Results
 
-This folder may contain row-level validation split artifacts:
+This folder contains validation outputs. Full local validation runs may include
+row-level split artifacts:
 
 ```text
 */splits/*/injected_rows.parquet
 */splits/*/predictions.parquet
 ```
 
-Those files are excluded from the GitHub release by `.gitignore`. Keep compact
-metrics, summaries, and analysis files in Git; regenerate row-level artifacts
-only when a validation audit requires them.
+Those files are omitted from the normal GitHub checkout by `.gitignore`. The
+included metrics, summaries, and analysis files keep the compact validation
+record. Regenerate row-level artifacts when a validation audit requires per-row
+predictions or injected-label metadata.
 
 The main synthetic validation helper is:
 

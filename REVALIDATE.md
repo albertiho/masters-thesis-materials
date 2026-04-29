@@ -24,10 +24,11 @@ The most useful provenance files are:
 - `results/detector_combinations/all_competitors_all_countries_country_level_layered_finalists/analysis/thesis_metrics/data_references.md`
 
 Large row-level artifacts such as `predictions.parquet`,
-`injected_rows.parquet`, and `template_cache.joblib` are intentionally excluded
-from the GitHub release. See the README files under `results/`,
-`results/tuning/`, and `results/detector_combinations/` for the omitted file
-patterns, approximate sizes, and generator scripts.
+`injected_rows.parquet`, and `template_cache.joblib` are part of the full local
+experiment workspace, but are omitted from the normal GitHub checkout because of
+their size. See the README files under `results/`, `results/tuning/`, and
+`results/detector_combinations/` for the file patterns, approximate sizes, and
+generator scripts.
 
 ## Setup Check
 
