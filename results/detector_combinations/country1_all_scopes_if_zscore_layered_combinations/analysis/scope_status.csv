@@ -1,0 +1,5 @@
+scope_id,scope_kind,scope_market,dataset_name,dataset_granularity,iforest_model_name,resumed,new_prices_complete,new_products_complete
+COMPETITOR_1_COUNTRY_1,competitor,B2B,COMPETITOR_1_COUNTRY_1,competitor,COMPETITOR_1_COUNTRY_1_mh5,False,True,True
+COMPETITOR_2_COUNTRY_1,competitor,B2C,COMPETITOR_2_COUNTRY_1,competitor,COMPETITOR_2_COUNTRY_1_mh5,False,True,True
+COMPETITOR_3_COUNTRY_1,competitor,B2C,COMPETITOR_3_COUNTRY_1,competitor,COMPETITOR_3_COUNTRY_1_mh5,False,True,True
+COUNTRY_1,country,,COUNTRY_1,country,COUNTRY_1_mh5,False,True,True

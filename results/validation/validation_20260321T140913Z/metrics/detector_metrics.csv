@@ -1,0 +1,2 @@
+run_id,candidate_id,dataset_split,detector_name,precision,recall,f1,tp,fp,fn,tn,n_rows,n_injected,n_predicted
+validation_20260321T140913Z,validation,validation,Sanity+Zscore,1.0,1.0,1.0,7,0,0,1,8,0,7

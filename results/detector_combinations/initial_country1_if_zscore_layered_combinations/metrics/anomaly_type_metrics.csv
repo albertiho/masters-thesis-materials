@@ -1,0 +1,163 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,currency_swap,4884,4876,0.9983619983619983
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,decimal_shift,4937,4937,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,extreme_outlier,4957,4957,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,list_price_violation,4926,1490,0.3024766544863987
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,negative_price,5007,5007,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,price_drop,4885,3444,0.7050153531218014
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,price_noise,4854,725,0.14936135146271118
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,price_spike,4953,4833,0.9757722592368262
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF,zero_price,4932,4932,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),currency_swap,4884,3392,0.6945126945126945
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),decimal_shift,4937,3348,0.6781446222402269
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),extreme_outlier,4957,3433,0.6925559814403873
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),list_price_violation,4926,2241,0.45493300852618757
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),negative_price,5007,3402,0.6794487717195926
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),price_drop,4885,2969,0.6077789150460594
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),price_noise,4854,1371,0.28244746600741655
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),price_spike,4953,3381,0.6826165960024227
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,IF -> Z-score (50/50),zero_price,4932,3354,0.6800486618004866
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,currency_swap,4884,4884,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,decimal_shift,4937,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,extreme_outlier,4957,72,0.014524914262658867
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,list_price_violation,4926,4926,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,negative_price,5007,5007,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,price_drop,4885,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,price_noise,4854,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,price_spike,4953,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity,zero_price,4932,4932,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,currency_swap,4884,4884,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,decimal_shift,4937,4937,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,extreme_outlier,4957,4957,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,list_price_violation,4926,4926,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,negative_price,5007,5007,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,price_drop,4885,3436,0.7033776867963153
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,price_noise,4854,724,0.14915533580552123
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,price_spike,4953,4833,0.9757722592368262
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> IF,zero_price,4932,4932,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,currency_swap,4884,4884,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,decimal_shift,4937,3298,0.6680170143812032
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,extreme_outlier,4957,3415,0.6889247528747227
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,list_price_violation,4926,4926,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,negative_price,5007,5007,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,price_drop,4885,3027,0.6196519959058342
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,price_noise,4854,1651,0.3401318500206016
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,price_spike,4953,3355,0.6773672521704017
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score,zero_price,4932,4932,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,currency_swap,4884,4884,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,decimal_shift,4937,4937,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,extreme_outlier,4957,4957,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,list_price_violation,4926,4926,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,negative_price,5007,5007,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,price_drop,4885,3533,0.7232343909928353
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,price_noise,4854,1724,0.35517099299546767
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,price_spike,4953,4839,0.9769836462749849
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=10) -> IF,zero_price,4932,4932,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,currency_swap,4884,4884,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,decimal_shift,4937,4937,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,extreme_outlier,4957,4957,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,list_price_violation,4926,4926,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,negative_price,5007,5007,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,price_drop,4885,3553,0.7273285568065506
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,price_noise,4854,1797,0.37021013597033375
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,price_spike,4953,4843,0.9777912376337573
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score (>=5) -> IF,zero_price,4932,4932,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),currency_swap,4884,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),decimal_shift,4937,3327,0.6738910269394369
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),extreme_outlier,4957,3363,0.6784345370183579
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),list_price_violation,4926,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),negative_price,5007,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),price_drop,4885,2919,0.5975435005117707
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),price_noise,4854,1336,0.27523691800576844
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),price_spike,4953,3358,0.6779729456894811
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Sanity -> Z-score -> IF (50/50),zero_price,4932,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,currency_swap,4884,3393,0.6947174447174447
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,decimal_shift,4937,3328,0.6740935790966174
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,extreme_outlier,4957,3414,0.6887230179544079
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,list_price_violation,4926,2414,0.49005278116118556
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,negative_price,5007,3375,0.6740563211503895
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,price_drop,4885,3038,0.6219037871033777
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,price_noise,4854,1658,0.3415739596209312
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,price_spike,4953,3379,0.6822128003230366
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_prices,Z-score,zero_price,4932,3316,0.6723438767234388
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,currency_swap,10493,6868,0.6545315924902316
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,decimal_shift,10575,7281,0.6885106382978723
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,extreme_outlier,10424,8302,0.7964313123561013
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,list_price_violation,10460,2196,0.20994263862332696
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,negative_price,10403,6162,0.592329135826204
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,price_drop,10533,5245,0.49795879616443556
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,price_noise,10525,1718,0.16323040380047507
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,price_spike,10398,6311,0.6069436430082709
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF,zero_price,10330,6285,0.6084220716360116
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),currency_swap,10493,5890,0.5613265986848375
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),decimal_shift,10575,5257,0.49711583924349884
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),extreme_outlier,10424,5564,0.5337682271680737
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),list_price_violation,10460,1229,0.11749521988527725
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),negative_price,10403,4100,0.3941170816110737
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),price_drop,10533,3324,0.31557960694958703
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),price_noise,10525,1262,0.11990498812351544
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),price_spike,10398,5117,0.4921138680515484
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,IF -> Z-score (50/50),zero_price,10330,3850,0.3727008712487899
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,currency_swap,10493,10493,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,decimal_shift,10575,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,extreme_outlier,10424,184,0.017651573292402148
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,list_price_violation,10460,10460,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,negative_price,10403,10403,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,price_drop,10533,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,price_noise,10525,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,price_spike,10398,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity,zero_price,10330,10330,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,currency_swap,10493,10493,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,decimal_shift,10575,6566,0.6208983451536643
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,extreme_outlier,10424,7863,0.7543169608595549
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,list_price_violation,10460,10460,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,negative_price,10403,10403,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,price_drop,10533,4718,0.4479255672647869
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,price_noise,10525,1420,0.134916864608076
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,price_spike,10398,5594,0.5379880746297365
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> IF,zero_price,10330,10330,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,currency_swap,10493,10493,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,decimal_shift,10575,4429,0.41881796690307327
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,extreme_outlier,10424,4681,0.4490598618572525
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,list_price_violation,10460,10460,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,negative_price,10403,10403,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,price_drop,10533,3480,0.33039020222158927
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,price_noise,10525,1757,0.16693586698337293
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,price_spike,10398,4606,0.44296980188497787
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score,zero_price,10330,10330,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,currency_swap,10493,10493,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,decimal_shift,10575,6566,0.6208983451536643
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,extreme_outlier,10424,7863,0.7543169608595549
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,list_price_violation,10460,10460,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,negative_price,10403,10403,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,price_drop,10533,4797,0.45542580461407006
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,price_noise,10525,1730,0.1643705463182898
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,price_spike,10398,5599,0.5384689363339104
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=10) -> IF,zero_price,10330,10330,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,currency_swap,10493,10493,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,decimal_shift,10575,6566,0.6208983451536643
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,extreme_outlier,10424,7863,0.7543169608595549
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,list_price_violation,10460,10460,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,negative_price,10403,10403,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,price_drop,10533,4837,0.4592233931453527
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,price_noise,10525,2094,0.19895486935866982
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,price_spike,10398,5600,0.5385651086747452
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score (>=5) -> IF,zero_price,10330,10330,1.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),currency_swap,10493,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),decimal_shift,10575,4892,0.4626004728132388
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),extreme_outlier,10424,5054,0.4848426707597851
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),list_price_violation,10460,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),negative_price,10403,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),price_drop,10533,2520,0.23924807747080604
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),price_noise,10525,911,0.08655581947743468
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),price_spike,10398,4688,0.4508559338334295
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Sanity -> Z-score -> IF (50/50),zero_price,10330,0,0.0
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,currency_swap,10493,5631,0.5366434766034499
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,decimal_shift,10575,4830,0.45673758865248226
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,extreme_outlier,10424,5010,0.4806216423637759
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,list_price_violation,10460,1368,0.13078393881453154
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,negative_price,10403,3832,0.3683552821301548
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,price_drop,10533,3327,0.3158644260894332
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,price_noise,10525,1510,0.14346793349168646
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,price_spike,10398,4920,0.47316791690709753
+initial_country1_if_zscore_layered_combinations,country1_if_zscore_layered_combinations,new_products,Z-score,zero_price,10330,3596,0.3481122942884802

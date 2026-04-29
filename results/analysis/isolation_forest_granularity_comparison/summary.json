@@ -1,0 +1,35 @@
+{
+  "successful_scope_rows": 97,
+  "error_scope_rows": 5,
+  "unique_scope_count": 17,
+  "granularity_count": 3,
+  "mh_level_count": 6,
+  "global_mean_combined_f1": 0.5934094593572646,
+  "global_mean_combined_g_mean": 0.8763659539929539,
+  "global_best_f1_mh_level": "mh30",
+  "global_best_combined_f1": 0.6326146450526466,
+  "global_best_g_mh_level": "mh30",
+  "global_best_combined_g_mean": 0.910537577482613,
+  "by_country_mean_combined_f1": 0.6263738722633634,
+  "by_country_mean_combined_g_mean": 0.8901109544723255,
+  "by_country_best_f1_mh_level": "mh30",
+  "by_country_best_combined_f1": 0.662892833430966,
+  "by_country_best_g_mh_level": "mh30",
+  "by_country_best_combined_g_mean": 0.9149670623389687,
+  "by_competitor_mean_combined_f1": 0.6689942776478542,
+  "by_competitor_mean_combined_g_mean": 0.9072787905650815,
+  "by_competitor_best_f1_mh_level": "mh30",
+  "by_competitor_best_combined_f1": 0.7029479122163204,
+  "by_competitor_best_g_mh_level": "mh30",
+  "by_competitor_best_combined_g_mean": 0.9224991799808553,
+  "highest_granularity_best_combined_f1": {
+    "granularity": "by_competitor",
+    "mh_level": "mh30",
+    "score": 0.7029479122163204
+  },
+  "highest_granularity_best_combined_g_mean": {
+    "granularity": "by_competitor",
+    "mh_level": "mh30",
+    "score": 0.9224991799808553
+  }
+}

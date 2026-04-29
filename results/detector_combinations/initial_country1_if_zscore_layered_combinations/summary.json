@@ -1,0 +1,41 @@
+{
+  "schema_version": "phase2.v1",
+  "run_id": "initial_country1_if_zscore_layered_combinations",
+  "experiment_family": "detector_combinations",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "generated_at": "2026-04-05T13:59:02.689342+00:00",
+  "detector_count": 9,
+  "candidate_count": 1,
+  "split_summaries": {
+    "new_prices": {
+      "n_metric_rows": 9,
+      "best_detector": "Sanity -> IF",
+      "best_candidate_id": "country1_if_zscore_layered_combinations",
+      "best_f1": 0.7327207730018301,
+      "total_rows": 443352,
+      "total_injected": 44335
+    },
+    "new_products": {
+      "n_metric_rows": 9,
+      "best_detector": "Sanity",
+      "best_candidate_id": "country1_if_zscore_layered_combinations",
+      "best_f1": 0.6156854960260567,
+      "total_rows": 941418,
+      "total_injected": 94141
+    }
+  },
+  "anomaly_types": [
+    "currency_swap",
+    "decimal_shift",
+    "extreme_outlier",
+    "list_price_violation",
+    "negative_price",
+    "price_drop",
+    "price_noise",
+    "price_spike",
+    "zero_price"
+  ]
+}

@@ -1,0 +1,4 @@
+granularity,granularity_label,sampled_mh_count,mean_combined_f1,mean_combined_g_mean,mean_training_time_sec,mean_scope_count,min_scope_count,max_scope_count
+global,Global,6,0.5934094593572646,0.8763659539929539,35.021429,1.0,1,1
+by_country,By country,6,0.6263738722633634,0.8901109544723255,9.837533666666667,4.0,4,4
+by_competitor,By competitor,6,0.6689942776478542,0.9072787905650815,3.3277188244949496,11.166666666666666,11,12

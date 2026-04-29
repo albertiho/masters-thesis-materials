@@ -1,0 +1,13 @@
+detector_family,detector_label,granularity,scope_count,mean_best_f1,mean_best_g_mean,mean_training_time_sec,source,mh_level
+eif,Extended Isolation Forest,global,1,0.2188779548335867,0.503769831879813,10912.502757,forest_scope_summary,mh5
+if,Isolation Forest,global,1,0.5711319434939917,0.8486036044980119,48.289223,forest_scope_summary,mh5
+rrcf,Robust Random Cut Forest,global,1,0.20056998453687475,0.5459871773646214,23626.38317,forest_scope_summary,mh5
+standard_zscore,Default z-score,global,1,0.5968196949755514,0.8022680999668882,,statistical_granularity_aggregate,mh5
+eif,Extended Isolation Forest,by_country,4,0.24888712095709917,0.5453232960026105,3530.11243825,forest_scope_summary,mh5
+if,Isolation Forest,by_country,4,0.5782590816361625,0.862154791706411,15.671339,forest_scope_summary,mh5
+rrcf,Robust Random Cut Forest,by_country,4,0.20561283508281603,0.5481191940691792,11149.27874675,forest_scope_summary,mh5
+standard_zscore,Default z-score,by_country,4,0.5929529414694444,0.812165681572646,,statistical_granularity_aggregate,mh5
+eif,Extended Isolation Forest,by_competitor,12,0.2654351207738031,0.5826896742125787,1201.2528258333334,forest_scope_summary,mh5
+if,Isolation Forest,by_competitor,12,0.6370238853500777,0.8886249095669486,4.872552583333333,forest_scope_summary,mh5
+rrcf,Robust Random Cut Forest,by_competitor,12,0.23700515884985926,0.5865907758621866,3732.6343318333334,forest_scope_summary,mh5
+standard_zscore,Default z-score,by_competitor,12,0.6113337039210469,0.8353975989777753,,statistical_granularity_aggregate,mh5

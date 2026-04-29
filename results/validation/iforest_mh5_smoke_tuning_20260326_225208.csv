@@ -1,0 +1,2 @@
+model_name,granularity,train_rows,test_rows,train_products,test_products,current_threshold,best_threshold,current_f1,best_f1,improvement_pct,status,updated_model,message
+COMPETITOR_3_COUNTRY_4_mh5,competitor,0,0,0,0,,,,,,error,False,"Subset too small for tuning: need at least 64 test rows, got 0"

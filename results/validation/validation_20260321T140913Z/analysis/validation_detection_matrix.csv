@@ -1,0 +1,8 @@
+detector_name,anomaly_type,detected
+Sanity+Zscore,price_spike,True
+Sanity+Zscore,price_drop,True
+Sanity+Zscore,zero_price,True
+Sanity+Zscore,negative_price,True
+Sanity+Zscore,extreme_outlier,True
+Sanity+Zscore,decimal_shift,True
+Sanity+Zscore,list_price_violation,True

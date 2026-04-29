@@ -1,0 +1,5 @@
+detector_family,detector_label,scope_count,mean_best_f1,mean_best_g_mean,mean_training_time_sec,source,mh_level
+eif,Extended Isolation Forest,17,0.2588028169380953,0.5692552415553647,2320.469789411765,forest_scope_summary,mh5
+if,Isolation Forest,17,0.6193208761317397,0.88004245212512,9.967365294117647,forest_scope_summary,mh5
+rrcf,Robust Random Cut Forest,17,0.22747548418037938,0.5751501919992692,6647.9476552352935,forest_scope_summary,mh5
+standard_zscore,Default z-score,17,0.606155053406229,0.8279824714112222,,statistical_granularity_aggregate,mh5

@@ -1,0 +1,109 @@
+detector_family,detector_label,granularity,granularity_label,mh_value,mh_level,average_weighted_f1,average_weighted_g_mean,scope_count
+hybrid_avg,Hybrid average,by_competitor,By competitor,5,mh5,0.42412711580923185,0.7300055930333523,12
+hybrid_avg,Hybrid average,by_competitor,By competitor,10,mh10,0.4261967834082907,0.7373902794319113,12
+hybrid_avg,Hybrid average,by_competitor,By competitor,15,mh15,0.4439320404033362,0.7657302702487623,11
+hybrid_avg,Hybrid average,by_competitor,By competitor,20,mh20,0.4525882879245753,0.7797954184287046,11
+hybrid_avg,Hybrid average,by_competitor,By competitor,25,mh25,0.4663301334499119,0.7972475210478138,11
+hybrid_avg,Hybrid average,by_competitor,By competitor,30,mh30,0.5221949510097897,0.816729810654587,11
+hybrid_avg,Hybrid average,by_country,By country,5,mh5,0.3919059607565565,0.6852940978921265,4
+hybrid_avg,Hybrid average,by_country,By country,10,mh10,0.41068633517060715,0.7106708366927285,4
+hybrid_avg,Hybrid average,by_country,By country,15,mh15,0.414312656441978,0.7308676782007422,4
+hybrid_avg,Hybrid average,by_country,By country,20,mh20,0.413799803157162,0.7534234683949121,4
+hybrid_avg,Hybrid average,by_country,By country,25,mh25,0.41872247990952033,0.775807522895555,4
+hybrid_avg,Hybrid average,by_country,By country,30,mh30,0.4235300319454389,0.7829257133731609,4
+hybrid_avg,Hybrid average,global,Global,5,mh5,0.37695059326921243,0.6727253927230278,1
+hybrid_avg,Hybrid average,global,Global,10,mh10,0.39072779961355875,0.6917383164643311,1
+hybrid_avg,Hybrid average,global,Global,15,mh15,0.3940331899400653,0.691258694429222,1
+hybrid_avg,Hybrid average,global,Global,20,mh20,0.38796885528436503,0.7235008751852676,1
+hybrid_avg,Hybrid average,global,Global,25,mh25,0.41815387730067655,0.7775347930369504,1
+hybrid_avg,Hybrid average,global,Global,30,mh30,0.42513822544036545,0.7835925852927061,1
+hybrid_max,Hybrid maximum,by_competitor,By competitor,5,mh5,0.4227692880963057,0.730668986852839,12
+hybrid_max,Hybrid maximum,by_competitor,By competitor,10,mh10,0.4264850933549405,0.7382794041696825,12
+hybrid_max,Hybrid maximum,by_competitor,By competitor,15,mh15,0.44102183304448095,0.7666029813702454,11
+hybrid_max,Hybrid maximum,by_competitor,By competitor,20,mh20,0.4496527765738605,0.7807219501243245,11
+hybrid_max,Hybrid maximum,by_competitor,By competitor,25,mh25,0.4624749355356332,0.7981848487904645,11
+hybrid_max,Hybrid maximum,by_competitor,By competitor,30,mh30,0.5168502197431236,0.8167980611959831,11
+hybrid_max,Hybrid maximum,by_country,By country,5,mh5,0.3894382288821048,0.6859542741344945,4
+hybrid_max,Hybrid maximum,by_country,By country,10,mh10,0.40934396336661005,0.7110284592156206,4
+hybrid_max,Hybrid maximum,by_country,By country,15,mh15,0.4153431883455201,0.7311816957999324,4
+hybrid_max,Hybrid maximum,by_country,By country,20,mh20,0.40892516267950973,0.7542116207119375,4
+hybrid_max,Hybrid maximum,by_country,By country,25,mh25,0.419319152244782,0.7766438939068843,4
+hybrid_max,Hybrid maximum,by_country,By country,30,mh30,0.42521665965950134,0.7836805460945373,4
+hybrid_max,Hybrid maximum,global,Global,5,mh5,0.3868975762104026,0.6734636824912631,1
+hybrid_max,Hybrid maximum,global,Global,10,mh10,0.39954775187711744,0.6924119517667328,1
+hybrid_max,Hybrid maximum,global,Global,15,mh15,0.38871683409012714,0.6912052409819978,1
+hybrid_max,Hybrid maximum,global,Global,20,mh20,0.39340656266698804,0.7238299472334451,1
+hybrid_max,Hybrid maximum,global,Global,25,mh25,0.4241702592040716,0.7783521938806717,1
+hybrid_max,Hybrid maximum,global,Global,30,mh30,0.4273875580184714,0.7852491815659355,1
+hybrid_weighted,Hybrid weighted,by_competitor,By competitor,5,mh5,0.4229088181120628,0.7304573802249381,12
+hybrid_weighted,Hybrid weighted,by_competitor,By competitor,10,mh10,0.42881547752269306,0.7379842390209858,12
+hybrid_weighted,Hybrid weighted,by_competitor,By competitor,15,mh15,0.4464667490334602,0.7665336253292149,11
+hybrid_weighted,Hybrid weighted,by_competitor,By competitor,20,mh20,0.4512446308451923,0.7806204662058647,11
+hybrid_weighted,Hybrid weighted,by_competitor,By competitor,25,mh25,0.46386616773322376,0.797816052292247,11
+hybrid_weighted,Hybrid weighted,by_competitor,By competitor,30,mh30,0.5210057601054093,0.817173467651087,11
+hybrid_weighted,Hybrid weighted,by_country,By country,5,mh5,0.38913869757834385,0.6855419263750557,4
+hybrid_weighted,Hybrid weighted,by_country,By country,10,mh10,0.4093996717062541,0.7109296511480285,4
+hybrid_weighted,Hybrid weighted,by_country,By country,15,mh15,0.4130243901094885,0.7311405705595453,4
+hybrid_weighted,Hybrid weighted,by_country,By country,20,mh20,0.4075556691490188,0.7538684645040532,4
+hybrid_weighted,Hybrid weighted,by_country,By country,25,mh25,0.4217039871435832,0.7762370272105461,4
+hybrid_weighted,Hybrid weighted,by_country,By country,30,mh30,0.4254122590829799,0.7832646170725369,4
+hybrid_weighted,Hybrid weighted,global,Global,5,mh5,0.38527258105831313,0.6731502247883775,1
+hybrid_weighted,Hybrid weighted,global,Global,10,mh10,0.3984102292346517,0.6920329438695777,1
+hybrid_weighted,Hybrid weighted,global,Global,15,mh15,0.3837623529672059,0.6911343788886087,1
+hybrid_weighted,Hybrid weighted,global,Global,20,mh20,0.3780847281815543,0.7234565446233288,1
+hybrid_weighted,Hybrid weighted,global,Global,25,mh25,0.42847787328130416,0.7773032214313795,1
+hybrid_weighted,Hybrid weighted,global,Global,30,mh30,0.4317579747210251,0.7843705550808031,1
+modified_mad,Modified MAD,by_competitor,By competitor,5,mh5,0.4187306718093038,0.7281742250371314,12
+modified_mad,Modified MAD,by_competitor,By competitor,10,mh10,0.4258032393914426,0.7354549672424063,12
+modified_mad,Modified MAD,by_competitor,By competitor,15,mh15,0.4442066946716425,0.7638329067875982,11
+modified_mad,Modified MAD,by_competitor,By competitor,20,mh20,0.4532175231760046,0.77761426531019,11
+modified_mad,Modified MAD,by_competitor,By competitor,25,mh25,0.4685681675371537,0.7956117485567148,11
+modified_mad,Modified MAD,by_competitor,By competitor,30,mh30,0.5194006526401277,0.8146933483143027,11
+modified_mad,Modified MAD,by_country,By country,5,mh5,0.38770915491068647,0.6838690180120572,4
+modified_mad,Modified MAD,by_country,By country,10,mh10,0.40759545869801406,0.7086349228333646,4
+modified_mad,Modified MAD,by_country,By country,15,mh15,0.41287508380832594,0.7286974493722926,4
+modified_mad,Modified MAD,by_country,By country,20,mh20,0.408038710190883,0.7510351344121673,4
+modified_mad,Modified MAD,by_country,By country,25,mh25,0.4161952105802969,0.7732110659185867,4
+modified_mad,Modified MAD,by_country,By country,30,mh30,0.4194007928933452,0.7796756561935727,4
+modified_mad,Modified MAD,global,Global,5,mh5,0.38249453700150454,0.6716424600133346,1
+modified_mad,Modified MAD,global,Global,10,mh10,0.3972242700925354,0.6906532315639338,1
+modified_mad,Modified MAD,global,Global,15,mh15,0.383654355844209,0.6898283497004933,1
+modified_mad,Modified MAD,global,Global,20,mh20,0.3769743573180684,0.7210272261176601,1
+modified_mad,Modified MAD,global,Global,25,mh25,0.4061790956350413,0.7739366065421349,1
+modified_mad,Modified MAD,global,Global,30,mh30,0.4080045065360236,0.7793604736152195,1
+modified_sn,Modified Sn,by_competitor,By competitor,5,mh5,0.42351703792693063,0.7316835249437089,12
+modified_sn,Modified Sn,by_competitor,By competitor,10,mh10,0.42901445061152854,0.739133294832189,12
+modified_sn,Modified Sn,by_competitor,By competitor,15,mh15,0.44354592547476196,0.7675284184522528,11
+modified_sn,Modified Sn,by_competitor,By competitor,20,mh20,0.45080355596447846,0.7818965212909803,11
+modified_sn,Modified Sn,by_competitor,By competitor,25,mh25,0.46575452979420773,0.7993354256210676,11
+modified_sn,Modified Sn,by_competitor,By competitor,30,mh30,0.5165937543806017,0.8180237103074394,11
+modified_sn,Modified Sn,by_country,By country,5,mh5,0.3903112890001566,0.6864719968992499,4
+modified_sn,Modified Sn,by_country,By country,10,mh10,0.40889290495782604,0.7116609671736525,4
+modified_sn,Modified Sn,by_country,By country,15,mh15,0.4120765349592151,0.7318454016469993,4
+modified_sn,Modified Sn,by_country,By country,20,mh20,0.40849790642846756,0.7550744106711093,4
+modified_sn,Modified Sn,by_country,By country,25,mh25,0.4203727902668013,0.7779413155056882,4
+modified_sn,Modified Sn,by_country,By country,30,mh30,0.4270237634850239,0.7848826544543016,4
+modified_sn,Modified Sn,global,Global,5,mh5,0.38453093672183014,0.674019043300439,1
+modified_sn,Modified Sn,global,Global,10,mh10,0.3974437010203657,0.6929004087830032,1
+modified_sn,Modified Sn,global,Global,15,mh15,0.38246664755231763,0.6920478347690364,1
+modified_sn,Modified Sn,global,Global,20,mh20,0.38577179648549065,0.724410231120091,1
+modified_sn,Modified Sn,global,Global,25,mh25,0.426828249678135,0.7788901091420048,1
+modified_sn,Modified Sn,global,Global,30,mh30,0.43053245402787765,0.7863087885499157,1
+standard_zscore,Z-score,by_competitor,By competitor,5,mh5,0.6113337039210469,0.8353975989777754,12
+standard_zscore,Z-score,by_competitor,By competitor,10,mh10,0.6110199195883361,0.8317079434810036,12
+standard_zscore,Z-score,by_competitor,By competitor,15,mh15,0.6391832210133739,0.8597760330157975,11
+standard_zscore,Z-score,by_competitor,By competitor,20,mh20,0.6421580485123994,0.86575380865957,11
+standard_zscore,Z-score,by_competitor,By competitor,25,mh25,0.6389283755253613,0.8825076799183612,11
+standard_zscore,Z-score,by_competitor,By competitor,30,mh30,0.6525506426975111,0.8693801709536572,11
+standard_zscore,Z-score,by_country,By country,5,mh5,0.5929529414694444,0.812165681572646,4
+standard_zscore,Z-score,by_country,By country,10,mh10,0.617706592379945,0.8305212313056193,4
+standard_zscore,Z-score,by_country,By country,15,mh15,0.6063895781757856,0.8328959184561658,4
+standard_zscore,Z-score,by_country,By country,20,mh20,0.58882309562306,0.8407196328631263,4
+standard_zscore,Z-score,by_country,By country,25,mh25,0.5955390658025879,0.8633090515405445,4
+standard_zscore,Z-score,by_country,By country,30,mh30,0.6010214685014255,0.8715157207554496,4
+standard_zscore,Z-score,global,Global,5,mh5,0.5968196949755514,0.8022680999668882,1
+standard_zscore,Z-score,global,Global,10,mh10,0.614208548455268,0.8135358925150957,1
+standard_zscore,Z-score,global,Global,15,mh15,0.5800122715954794,0.802424078895376,1
+standard_zscore,Z-score,global,Global,20,mh20,0.5845492438695548,0.8231148259382473,1
+standard_zscore,Z-score,global,Global,25,mh25,0.5795742031656181,0.8617362200968449,1
+standard_zscore,Z-score,global,Global,30,mh30,0.6108822257908414,0.873097725916012,1

@@ -1,0 +1,36 @@
+{
+  "schema_version": "phase2.v1",
+  "run_id": "initial_country4_competitor3_zscore_baseline",
+  "experiment_family": "comparison",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "generated_at": "2026-03-21T15:10:34.485970+00:00",
+  "detector_count": 1,
+  "candidate_count": 1,
+  "split_summaries": {
+    "new_prices": {
+      "n_metric_rows": 1,
+      "best_detector": "Z-score",
+      "best_candidate_id": "zscore_baseline",
+      "best_f1": 0.8495575221238938,
+      "total_rows": 1454,
+      "total_injected": 145
+    },
+    "new_products": {
+      "n_metric_rows": 1,
+      "best_detector": "Z-score",
+      "best_candidate_id": "zscore_baseline",
+      "best_f1": 0.5291005291005291,
+      "total_rows": 1184,
+      "total_injected": 118
+    }
+  },
+  "anomaly_types": [
+    "decimal_shift",
+    "list_price_violation",
+    "price_drop",
+    "price_spike"
+  ]
+}

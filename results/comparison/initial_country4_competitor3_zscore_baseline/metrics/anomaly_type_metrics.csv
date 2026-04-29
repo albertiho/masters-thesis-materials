@@ -1,0 +1,9 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_prices,Z-score,decimal_shift,38,37,0.9736842105263158
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_prices,Z-score,list_price_violation,36,36,1.0
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_prices,Z-score,price_drop,32,32,1.0
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_prices,Z-score,price_spike,39,39,1.0
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_products,Z-score,decimal_shift,33,15,0.45454545454545453
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_products,Z-score,list_price_violation,29,12,0.41379310344827586
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_products,Z-score,price_drop,28,12,0.42857142857142855
+initial_country4_competitor3_zscore_baseline,zscore_baseline,new_products,Z-score,price_spike,28,11,0.39285714285714285

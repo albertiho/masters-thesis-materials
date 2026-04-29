@@ -1,0 +1,57 @@
+{
+  "schema_version": "phase2.v1",
+  "experiment_family": "comparison",
+  "run_id": "initial_country4_competitor3_zscore_baseline",
+  "candidate_id": "zscore_baseline",
+  "dataset_id": "COUNTRY_4__B2C__COMPETITOR_3_COUNTRY_4",
+  "dataset_scope": "competitor",
+  "component_dataset_ids": [
+    "COUNTRY_4__B2C__COMPETITOR_3_COUNTRY_4"
+  ],
+  "source_dataset_paths": [
+    "data/training/derived/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08_train_mh5.parquet",
+    "data/training/derived/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08_test_new_prices_mh5.parquet",
+    "data/training/derived/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08_test_new_products_mh5.parquet"
+  ],
+  "dataset_names": [
+    "COUNTRY_4__B2C__COMPETITOR_3_COUNTRY_4_mh5"
+  ],
+  "dataset_granularity": "competitor",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "random_seeds": {
+    "training_seed": 42,
+    "injection_seed": 42
+  },
+  "injection_config": {
+    "injection_rate": 0.1,
+    "spike_range": [
+      2.0,
+      5.0
+    ],
+    "drop_range": [
+      0.1,
+      0.5
+    ],
+    "strategy": "synthetic_dataframe_injection"
+  },
+  "detector_identifiers": [
+    "Z-score"
+  ],
+  "config_values": {
+    "data_root": "data/training",
+    "train_split": "train",
+    "evaluation_splits": [
+      "test_new_prices",
+      "test_new_products"
+    ],
+    "min_history": 5,
+    "detector_family": "zscore",
+    "zscore_threshold": 3.0
+  },
+  "generated_at": "2026-03-21T15:10:34.435909+00:00",
+  "git_commit": "686149c270a63daef357fa3854d7e59ccde27de5",
+  "output_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\comparison\\initial_country4_competitor3_zscore_baseline"
+}

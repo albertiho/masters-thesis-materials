@@ -1,0 +1,83 @@
+{
+  "candidate_id": "COMPETITOR_2_COUNTRY_1",
+  "config_values": {
+    "combinations": [
+      "IF",
+      "Z-score",
+      "Sanity",
+      "Sanity -> IF",
+      "Sanity -> Z-score",
+      "IF -> Z-score (50/50)",
+      "Sanity -> Z-score -> IF (50/50)",
+      "Sanity -> Z-score (>=5) -> IF",
+      "Sanity -> Z-score (>=10) -> IF"
+    ],
+    "country_name": "COUNTRY_1",
+    "dataset_level": "mh5",
+    "dataset_snapshot": "2026-02-08",
+    "evaluation_splits": [
+      "test_new_prices",
+      "test_new_products"
+    ],
+    "iforest_model_name": "COMPETITOR_2_COUNTRY_1_mh5",
+    "min_history": 5,
+    "parallel_scope_workers": 6,
+    "scope_kind": "competitor",
+    "scope_market": "B2C"
+  },
+  "dataset_granularity": "competitor",
+  "dataset_names": [
+    "COMPETITOR_2_COUNTRY_1"
+  ],
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "detector_identifiers": [
+    "IF",
+    "Z-score",
+    "Sanity",
+    "Sanity -> IF",
+    "Sanity -> Z-score",
+    "IF -> Z-score (50/50)",
+    "Sanity -> Z-score -> IF (50/50)",
+    "Sanity -> Z-score (>=5) -> IF",
+    "Sanity -> Z-score (>=10) -> IF"
+  ],
+  "experiment_family": "detector_combinations",
+  "generated_at": "2026-04-05T20:44:35.284281+00:00",
+  "git_commit": "686149c270a63daef357fa3854d7e59ccde27de5",
+  "injection_config": {
+    "anomaly_types": [
+      "price_spike",
+      "price_drop",
+      "price_noise",
+      "list_price_violation",
+      "zero_price",
+      "negative_price",
+      "extreme_outlier",
+      "decimal_shift",
+      "currency_swap"
+    ],
+    "drop_range": [
+      0.1,
+      0.5
+    ],
+    "injection_rate": 0.1,
+    "spike_range": [
+      2.0,
+      5.0
+    ],
+    "strategy": "synthetic_dataframe_injection"
+  },
+  "random_seeds": {
+    "injection_seed_base": 42
+  },
+  "run_id": "country1_all_scopes_if_zscore_layered_combinations",
+  "schema_version": "phase2.v1",
+  "source_dataset_paths": [
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh5\\by_competitor\\COUNTRY_1\\B2C\\COMPETITOR_2_COUNTRY_1_2026-02-08_train.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh5\\by_competitor\\COUNTRY_1\\B2C\\COMPETITOR_2_COUNTRY_1_2026-02-08_test_new_prices.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh5\\by_competitor\\COUNTRY_1\\B2C\\COMPETITOR_2_COUNTRY_1_2026-02-08_test_new_products.parquet"
+  ]
+}

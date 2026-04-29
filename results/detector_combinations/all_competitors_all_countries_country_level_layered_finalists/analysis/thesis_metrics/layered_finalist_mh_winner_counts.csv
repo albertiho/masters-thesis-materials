@@ -1,0 +1,49 @@
+mh_level,mh_value,metric,detector_combination,scope_wins,valid_scope_count
+mh5,5,f1_wc,Sanity -> Z-score,10,12
+mh5,5,f1_wc,Sanity -> IF,2,12
+mh5,5,f1_wc,Sanity -> Z-score (>=10) -> IF,0,12
+mh5,5,f1_wc,Sanity -> Z-score (>=5) -> IF,0,12
+mh5,5,g_wc,Sanity -> Z-score,7,12
+mh5,5,g_wc,Sanity -> IF,3,12
+mh5,5,g_wc,Sanity -> Z-score (>=10) -> IF,0,12
+mh5,5,g_wc,Sanity -> Z-score (>=5) -> IF,2,12
+mh10,10,f1_wc,Sanity -> Z-score,9,12
+mh10,10,f1_wc,Sanity -> IF,3,12
+mh10,10,f1_wc,Sanity -> Z-score (>=10) -> IF,0,12
+mh10,10,f1_wc,Sanity -> Z-score (>=5) -> IF,0,12
+mh10,10,g_wc,Sanity -> Z-score,7,12
+mh10,10,g_wc,Sanity -> IF,4,12
+mh10,10,g_wc,Sanity -> Z-score (>=10) -> IF,1,12
+mh10,10,g_wc,Sanity -> Z-score (>=5) -> IF,0,12
+mh15,15,f1_wc,Sanity -> Z-score,8,11
+mh15,15,f1_wc,Sanity -> IF,3,11
+mh15,15,f1_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh15,15,f1_wc,Sanity -> Z-score (>=5) -> IF,0,11
+mh15,15,g_wc,Sanity -> Z-score,8,11
+mh15,15,g_wc,Sanity -> IF,3,11
+mh15,15,g_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh15,15,g_wc,Sanity -> Z-score (>=5) -> IF,0,11
+mh20,20,f1_wc,Sanity -> Z-score,10,11
+mh20,20,f1_wc,Sanity -> IF,1,11
+mh20,20,f1_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh20,20,f1_wc,Sanity -> Z-score (>=5) -> IF,0,11
+mh20,20,g_wc,Sanity -> Z-score,4,11
+mh20,20,g_wc,Sanity -> IF,7,11
+mh20,20,g_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh20,20,g_wc,Sanity -> Z-score (>=5) -> IF,0,11
+mh25,25,f1_wc,Sanity -> Z-score,7,11
+mh25,25,f1_wc,Sanity -> IF,4,11
+mh25,25,f1_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh25,25,f1_wc,Sanity -> Z-score (>=5) -> IF,0,11
+mh25,25,g_wc,Sanity -> Z-score,5,11
+mh25,25,g_wc,Sanity -> IF,6,11
+mh25,25,g_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh25,25,g_wc,Sanity -> Z-score (>=5) -> IF,0,11
+mh30,30,f1_wc,Sanity -> Z-score,4,11
+mh30,30,f1_wc,Sanity -> IF,7,11
+mh30,30,f1_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh30,30,f1_wc,Sanity -> Z-score (>=5) -> IF,0,11
+mh30,30,g_wc,Sanity -> Z-score,4,11
+mh30,30,g_wc,Sanity -> IF,7,11
+mh30,30,g_wc,Sanity -> Z-score (>=10) -> IF,0,11
+mh30,30,g_wc,Sanity -> Z-score (>=5) -> IF,0,11

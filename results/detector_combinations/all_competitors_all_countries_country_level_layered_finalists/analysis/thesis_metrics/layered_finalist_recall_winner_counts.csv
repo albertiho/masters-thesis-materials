@@ -1,0 +1,4 @@
+detector_combination,recall_wins,total_valid_scope_mh_pairs
+Sanity -> IF,8,68
+Sanity -> Z-score (>=10) -> IF,1,68
+Sanity -> Z-score (>=5) -> IF,59,68

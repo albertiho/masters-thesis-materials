@@ -1,0 +1,42 @@
+{
+  "schema_version": "phase2.v1",
+  "experiment_family": "validation",
+  "run_id": "validation_20260321T140913Z",
+  "candidate_id": "validation",
+  "source_dataset_paths": [],
+  "dataset_names": [
+    "validation_synthetic"
+  ],
+  "dataset_granularity": "synthetic",
+  "dataset_splits": [
+    "validation"
+  ],
+  "random_seeds": {
+    "generation_seed": 42
+  },
+  "injection_config": {
+    "base_price": 1000.0,
+    "list_price": 1200.0,
+    "history_size": 10,
+    "anomaly_types": [
+      "price_spike",
+      "price_drop",
+      "zero_price",
+      "negative_price",
+      "extreme_outlier",
+      "decimal_shift",
+      "list_price_violation"
+    ]
+  },
+  "detector_identifiers": [
+    "Sanity+Zscore"
+  ],
+  "config_values": {
+    "model": "DK_B2C_mh4",
+    "skip_ml": true,
+    "verbose": false
+  },
+  "generated_at": "2026-03-21T14:09:13.999938+00:00",
+  "git_commit": "b14ed3a951da6dfa59b4b155e454d24fe0348851",
+  "output_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\validation\\validation_20260321T140913Z"
+}

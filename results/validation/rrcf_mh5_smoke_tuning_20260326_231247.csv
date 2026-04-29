@@ -1,0 +1,2 @@
+model_name,granularity,train_rows,test_rows,train_products,test_products,current_threshold,best_threshold,current_f1,best_f1,improvement_pct,status,updated_model,message
+COMPETITOR_3_COUNTRY_4_mh5,competitor,158,64,32,32,0.8,0.575,0.15384615384615383,0.2857142857142857,85.71428571428574,ok,False,validated_without_model_update

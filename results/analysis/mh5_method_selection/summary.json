@@ -1,0 +1,27 @@
+{
+  "mh_level": "mh5",
+  "forest_scope_count": 51,
+  "forest_detector_count": 3,
+  "forest_granularity_count": 3,
+  "if_mean_best_f1": 0.6193208761317397,
+  "if_mean_best_g_mean": 0.88004245212512,
+  "if_mean_training_time_sec": 9.967365294117647,
+  "eif_mean_best_f1": 0.2588028169380953,
+  "eif_mean_best_g_mean": 0.5692552415553647,
+  "eif_mean_training_time_sec": 2320.469789411765,
+  "rrcf_mean_best_f1": 0.22747548418037938,
+  "rrcf_mean_best_g_mean": 0.5751501919992692,
+  "rrcf_mean_training_time_sec": 6647.9476552352935,
+  "standard_zscore_mean_best_f1": 0.606155053406229,
+  "standard_zscore_mean_best_g_mean": 0.8279824714112222,
+  "if_dominates_all_eif_granularities": true,
+  "if_dominates_all_rrcf_granularities": true,
+  "recommended_full_suite_methods": [
+    "standard_zscore",
+    "if"
+  ],
+  "deprioritized_full_suite_methods": [
+    "eif",
+    "rrcf"
+  ]
+}

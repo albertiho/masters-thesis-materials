@@ -1,0 +1,79 @@
+{
+  "candidate_id": "COMPETITOR_3_COUNTRY_2__mh30",
+  "config_values": {
+    "combinations": [
+      "Sanity -> IF",
+      "Sanity -> Z-score",
+      "Sanity -> Z-score (>=10) -> IF",
+      "Sanity -> Z-score (>=5) -> IF"
+    ],
+    "country": "COUNTRY_2",
+    "country_if_config_source": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\forests\\single_config_optimized_mh5_run\\mh30\\by_country\\COUNTRY_2_COUNTRY_2_2026-02-08\\if\\best_configuration.json",
+    "country_if_contamination": "auto",
+    "country_if_max_features": 0.75,
+    "country_if_max_samples": 512,
+    "country_if_model_name": "COUNTRY_2_mh30",
+    "country_if_n_estimators": 200,
+    "country_if_threshold": 0.36,
+    "dataset_snapshot": "2026-02-08",
+    "evaluation_splits": [
+      "test_new_prices",
+      "test_new_products"
+    ],
+    "if_config_granularity": "by_country",
+    "mh_level": "mh30",
+    "min_history": 5,
+    "parallel_scope_workers": 6,
+    "scope_market": "B2C"
+  },
+  "dataset_granularity": "competitor",
+  "dataset_names": [
+    "COMPETITOR_3_COUNTRY_2"
+  ],
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "detector_identifiers": [
+    "Sanity -> IF",
+    "Sanity -> Z-score",
+    "Sanity -> Z-score (>=10) -> IF",
+    "Sanity -> Z-score (>=5) -> IF"
+  ],
+  "experiment_family": "detector_combinations",
+  "generated_at": "2026-04-06T13:12:05.122510+00:00",
+  "git_commit": "686149c270a63daef357fa3854d7e59ccde27de5",
+  "injection_config": {
+    "anomaly_types": [
+      "price_spike",
+      "price_drop",
+      "price_noise",
+      "list_price_violation",
+      "zero_price",
+      "negative_price",
+      "extreme_outlier",
+      "decimal_shift",
+      "currency_swap"
+    ],
+    "drop_range": [
+      0.1,
+      0.5
+    ],
+    "injection_rate": 0.1,
+    "spike_range": [
+      2.0,
+      5.0
+    ],
+    "strategy": "synthetic_dataframe_injection"
+  },
+  "random_seeds": {
+    "injection_seed_base": 42
+  },
+  "run_id": "all_competitors_all_countries_country_level_layered_finalists",
+  "schema_version": "phase2.v1",
+  "source_dataset_paths": [
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh30\\by_competitor\\COUNTRY_2\\B2C\\COMPETITOR_3_COUNTRY_2_2026-02-08_train.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh30\\by_competitor\\COUNTRY_2\\B2C\\COMPETITOR_3_COUNTRY_2_2026-02-08_test_new_prices.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh30\\by_competitor\\COUNTRY_2\\B2C\\COMPETITOR_3_COUNTRY_2_2026-02-08_test_new_products.parquet"
+  ]
+}
