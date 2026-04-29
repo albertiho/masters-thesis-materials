@@ -1,0 +1,38 @@
+[
+  {
+    "granularity": "by_competitor",
+    "granularity_label": "By competitor",
+    "scope_count": 12,
+    "mean_spearman": 0.9022323698464398,
+    "median_spearman": 0.9818181818181817,
+    "positive_equal_support_f1_loss_count": 1,
+    "max_equal_support_f1_loss": 0.0528670416679916
+  },
+  {
+    "granularity": "by_country",
+    "granularity_label": "By country",
+    "scope_count": 4,
+    "mean_spearman": 0.9757575757575757,
+    "median_spearman": 0.9818181818181818,
+    "positive_equal_support_f1_loss_count": 0,
+    "max_equal_support_f1_loss": 0.0
+  },
+  {
+    "granularity": "global",
+    "granularity_label": "Global",
+    "scope_count": 1,
+    "mean_spearman": 1.0,
+    "median_spearman": 1.0,
+    "positive_equal_support_f1_loss_count": 0,
+    "max_equal_support_f1_loss": 0.0
+  },
+  {
+    "granularity": "all",
+    "granularity_label": "All",
+    "scope_count": 17,
+    "mean_spearman": 0.9252834553639753,
+    "median_spearman": 0.9878787878787878,
+    "positive_equal_support_f1_loss_count": 1,
+    "max_equal_support_f1_loss": 0.0528670416679916
+  }
+]

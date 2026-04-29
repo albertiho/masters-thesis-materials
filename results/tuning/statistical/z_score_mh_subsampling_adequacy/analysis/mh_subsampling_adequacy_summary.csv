@@ -1,0 +1,5 @@
+granularity,granularity_label,scope_count,mean_spearman,median_spearman,positive_equal_support_f1_loss_count,max_equal_support_f1_loss
+by_competitor,By competitor,12,0.9022323698464398,0.9818181818181817,1,0.0528670416679916
+by_country,By country,4,0.9757575757575757,0.9818181818181818,0,0.0
+global,Global,1,1.0,1.0,0,0.0
+all,All,17,0.9252834553639753,0.9878787878787878,1,0.0528670416679916
