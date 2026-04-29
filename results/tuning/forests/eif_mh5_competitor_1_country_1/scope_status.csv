@@ -1,0 +1,2 @@
+mh_level,granularity,scope_id,dataset_name,detector_family,status,reason,output_dir,best_threshold,best_f1,best_g_mean,best_precision,best_recall,best_fpr,best_fnr
+mh5,by_competitor,COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08,COMPETITOR_1_COUNTRY_1,eif,ok,,C:\Users\Administrator\Desktop\dippa\src\results\tuning\forests\eif_mh5_competitor_1_country_1\mh5\by_competitor\COUNTRY_1_B2B_COMPETITOR_1_COUNTRY_1_2026-02-08\eif,0.2,0.2919225166916898,0.6474234644077111,0.1957033044099435,0.5980466920272136,0.2943789332134978,0.40195330797278644
