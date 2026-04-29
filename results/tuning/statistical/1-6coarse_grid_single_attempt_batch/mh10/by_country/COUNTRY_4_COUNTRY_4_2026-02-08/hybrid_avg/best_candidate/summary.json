@@ -1,0 +1,36 @@
+{
+  "schema_version": "phase2.v1",
+  "run_id": "hybrid_avg__threshold_4p750",
+  "experiment_family": "tuning",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "generated_at": "2026-03-27T07:03:20.636146+00:00",
+  "detector_count": 1,
+  "candidate_count": 1,
+  "split_summaries": {
+    "new_prices": {
+      "n_metric_rows": 1,
+      "best_detector": "hybrid_avg",
+      "best_candidate_id": "hybrid_avg__threshold_4p750",
+      "best_f1": 0.4648747528988286,
+      "total_rows": 97622,
+      "total_injected": 9762
+    },
+    "new_products": {
+      "n_metric_rows": 1,
+      "best_detector": "hybrid_avg",
+      "best_candidate_id": "hybrid_avg__threshold_4p750",
+      "best_f1": 0.3776468270903779,
+      "total_rows": 313275,
+      "total_injected": 31327
+    }
+  },
+  "anomaly_types": [
+    "decimal_shift",
+    "list_price_violation",
+    "price_drop",
+    "price_spike"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "mh_level": "mh15",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08",
+  "dataset_name": "COMPETITOR_3_COUNTRY_4",
+  "detector_family": "modified_mad",
+  "status": "error",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh15\\by_competitor\\COUNTRY_4_B2C_COMPETITOR_3_COUNTRY_4_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "error": "No successful candidates were produced",
+  "generated_at": "2026-03-27T21:59:42.225884+00:00"
+}

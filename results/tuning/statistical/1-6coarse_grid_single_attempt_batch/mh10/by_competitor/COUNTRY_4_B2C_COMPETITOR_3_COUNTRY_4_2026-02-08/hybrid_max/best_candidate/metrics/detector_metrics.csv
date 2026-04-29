@@ -1,0 +1,3 @@
+run_id,candidate_id,dataset_split,detector_name,accuracy,precision,recall,tnr,f1,g_mean,tp,fp,fn,tn,n_rows,n_injected,n_predicted
+hybrid_max__threshold_2p000,hybrid_max__threshold_2p000,new_prices,hybrid_max,0.75,0.3333333333333333,1.0,0.7142857142857143,0.5,0.8451542547285166,1,2,0,5,8,1,3
+hybrid_max__threshold_2p000,hybrid_max__threshold_2p000,new_products,hybrid_max,0.5,0.0,0.0,0.5555555555555556,0.0,0.0,0,4,1,5,10,1,4

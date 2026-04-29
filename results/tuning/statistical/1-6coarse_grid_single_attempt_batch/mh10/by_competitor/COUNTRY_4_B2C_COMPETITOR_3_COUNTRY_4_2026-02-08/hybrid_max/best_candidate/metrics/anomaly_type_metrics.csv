@@ -1,0 +1,3 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+hybrid_max__threshold_2p000,hybrid_max__threshold_2p000,new_prices,hybrid_max,price_drop,1,1,1.0
+hybrid_max__threshold_2p000,hybrid_max__threshold_2p000,new_products,hybrid_max,price_drop,1,0,0.0

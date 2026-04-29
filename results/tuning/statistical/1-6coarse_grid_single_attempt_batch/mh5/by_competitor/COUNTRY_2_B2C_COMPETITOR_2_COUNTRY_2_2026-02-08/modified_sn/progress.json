@@ -1,0 +1,35 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "mh_level": "mh5",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_2/B2C/COMPETITOR_2_COUNTRY_2_2026-02-08",
+  "dataset_name": "COMPETITOR_2_COUNTRY_2",
+  "detector_family": "modified_sn",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\1-6coarse_grid_single_attempt_batch\\mh5\\by_competitor\\COUNTRY_2_B2C_COMPETITOR_2_COUNTRY_2_2026-02-08\\modified_sn",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh5\\by_competitor\\COUNTRY_2_B2C_COMPETITOR_2_COUNTRY_2_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "complete",
+  "completed_stage": "finalized",
+  "active_stage": "idle",
+  "started_at": "2026-03-25T21:01:59.979244+00:00",
+  "updated_at": "2026-03-25T21:29:16.200493+00:00",
+  "completed_at": "2026-03-25T21:29:16.200493+00:00",
+  "error": "",
+  "candidate_count": 10,
+  "candidate_ids": [
+    "modified_sn__threshold_1p000",
+    "modified_sn__threshold_2p000",
+    "modified_sn__threshold_3p000",
+    "modified_sn__threshold_3p500",
+    "modified_sn__threshold_3p750",
+    "modified_sn__threshold_4p000",
+    "modified_sn__threshold_4p250",
+    "modified_sn__threshold_4p500",
+    "modified_sn__threshold_5p000",
+    "modified_sn__threshold_6p000"
+  ],
+  "best_candidate_id": "modified_sn__threshold_4p000"
+}

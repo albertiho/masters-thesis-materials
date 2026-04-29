@@ -1,0 +1,50 @@
+{
+  "schema_version": "phase2.v1",
+  "experiment_family": "tuning",
+  "run_id": "hybrid_avg__threshold_3p750",
+  "candidate_id": "hybrid_avg__threshold_3p750",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "mh_level": "mh30",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_3/B2B/COMPETITOR_1_COUNTRY_3_2026-02-08",
+  "dataset_name": "COMPETITOR_1_COUNTRY_3",
+  "source_dataset_paths": [
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh30\\by_competitor\\COUNTRY_3\\B2B\\COMPETITOR_1_COUNTRY_3_2026-02-08_train.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh30\\by_competitor\\COUNTRY_3\\B2B\\COMPETITOR_1_COUNTRY_3_2026-02-08_test_new_prices.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh30\\by_competitor\\COUNTRY_3\\B2B\\COMPETITOR_1_COUNTRY_3_2026-02-08_test_new_products.parquet"
+  ],
+  "dataset_names": [
+    "COMPETITOR_1_COUNTRY_3"
+  ],
+  "dataset_granularity": "by_competitor",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh30\\by_competitor\\COUNTRY_3_B2B_COMPETITOR_1_COUNTRY_3_2026-02-08\\template_cache.joblib",
+  "random_seeds": {
+    "attempt_seeds": [
+      42
+    ]
+  },
+  "injection_config": {
+    "injection_rate": 0.1,
+    "spike_range": [
+      2.0,
+      5.0
+    ],
+    "drop_range": [
+      0.1,
+      0.5
+    ]
+  },
+  "detector_identifiers": [
+    "hybrid_avg"
+  ],
+  "config_values": {
+    "threshold": 3.75
+  },
+  "generated_at": "2026-03-28T11:28:00.341998+00:00",
+  "git_commit": "686149c270a63daef357fa3854d7e59ccde27de5",
+  "output_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\1-6coarse_grid_single_attempt_batch\\mh30\\by_competitor\\COUNTRY_3_B2B_COMPETITOR_1_COUNTRY_3_2026-02-08\\hybrid_avg\\best_candidate"
+}

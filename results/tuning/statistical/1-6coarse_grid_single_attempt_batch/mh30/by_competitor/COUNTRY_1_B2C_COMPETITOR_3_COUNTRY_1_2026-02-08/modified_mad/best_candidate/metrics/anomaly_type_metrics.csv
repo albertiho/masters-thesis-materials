@@ -1,0 +1,4 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+modified_mad__threshold_4p500,modified_mad__threshold_4p500,new_prices,modified_mad,price_drop,1,1,1.0
+modified_mad__threshold_4p500,modified_mad__threshold_4p500,new_products,modified_mad,decimal_shift,2,2,1.0
+modified_mad__threshold_4p500,modified_mad__threshold_4p500,new_products,modified_mad,price_spike,1,0,0.0

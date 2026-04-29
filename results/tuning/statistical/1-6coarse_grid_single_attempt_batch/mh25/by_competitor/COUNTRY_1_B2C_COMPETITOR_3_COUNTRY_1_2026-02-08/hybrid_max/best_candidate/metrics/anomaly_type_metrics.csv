@@ -1,0 +1,9 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_prices,hybrid_max,decimal_shift,4,3,0.75
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_prices,hybrid_max,list_price_violation,5,2,0.4
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_prices,hybrid_max,price_drop,5,4,0.8
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_prices,hybrid_max,price_spike,8,6,0.75
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_products,hybrid_max,decimal_shift,17,12,0.7058823529411765
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_products,hybrid_max,list_price_violation,17,8,0.47058823529411764
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_products,hybrid_max,price_drop,17,10,0.5882352941176471
+hybrid_max__threshold_5p750,hybrid_max__threshold_5p750,new_products,hybrid_max,price_spike,20,15,0.75

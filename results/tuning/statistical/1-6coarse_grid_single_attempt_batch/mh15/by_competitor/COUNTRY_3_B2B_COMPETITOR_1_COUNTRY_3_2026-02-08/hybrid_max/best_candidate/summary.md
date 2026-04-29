@@ -1,0 +1,19 @@
+# Tuning Summary
+
+- Run ID: `hybrid_max__threshold_4p250`
+- Schema version: `phase2.v1`
+- Splits: new_prices, new_products
+- Detector metric rows: 2
+
+## new_prices
+
+| Candidate | Detector | Precision | Recall | F1 | TP | FP | FN | TN |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| hybrid_max__threshold_4p250 | hybrid_max | 0.3614 | 0.7881 | 0.4955 | 4053 | 7162 | 1090 | 39129 |
+
+## new_products
+
+| Candidate | Detector | Precision | Recall | F1 | TP | FP | FN | TN |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| hybrid_max__threshold_4p250 | hybrid_max | 0.3111 | 0.7222 | 0.4349 | 13263 | 29364 | 5102 | 135926 |
+

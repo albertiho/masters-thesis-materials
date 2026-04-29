@@ -1,0 +1,47 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "experiment_family": "tuning",
+  "detector_families": [
+    "modified_mad",
+    "modified_sn",
+    "hybrid_max",
+    "hybrid_avg"
+  ],
+  "generated_at": "2026-03-28T14:24:18.771192+00:00",
+  "scope_count": 102,
+  "complete_scope_count": 98,
+  "error_scope_count": 4,
+  "skipped_scope_count": 0,
+  "best_configuration_count": 392,
+  "config": {
+    "data_subsets_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets",
+    "cache_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning",
+    "output_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\1-6coarse_grid_single_attempt_batch",
+    "attempt_seeds": [
+      42
+    ],
+    "detectors": [
+      "modified_mad",
+      "modified_sn",
+      "hybrid_max",
+      "hybrid_avg"
+    ],
+    "mh_values": [
+      "mh5",
+      "mh10",
+      "mh15",
+      "mh20",
+      "mh25",
+      "mh30"
+    ],
+    "granularities": [
+      "global",
+      "by_competitor",
+      "by_country"
+    ],
+    "max_workers": 5,
+    "resume": true,
+    "rebuild_cache": false
+  }
+}

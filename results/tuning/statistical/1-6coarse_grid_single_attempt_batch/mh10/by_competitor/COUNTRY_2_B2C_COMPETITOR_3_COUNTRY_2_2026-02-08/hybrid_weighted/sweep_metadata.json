@@ -1,0 +1,87 @@
+{
+  "schema_version": "phase2.v1",
+  "experiment_family": "tuning",
+  "detector_family": "hybrid_weighted",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "mh_level": "mh10",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_2/B2C/COMPETITOR_3_COUNTRY_2_2026-02-08",
+  "dataset_name": "COMPETITOR_3_COUNTRY_2",
+  "source_dataset_paths": [
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh10\\by_competitor\\COUNTRY_2\\B2C\\COMPETITOR_3_COUNTRY_2_2026-02-08_train.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh10\\by_competitor\\COUNTRY_2\\B2C\\COMPETITOR_3_COUNTRY_2_2026-02-08_test_new_prices.parquet",
+    "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets\\mh10\\by_competitor\\COUNTRY_2\\B2C\\COMPETITOR_3_COUNTRY_2_2026-02-08_test_new_products.parquet"
+  ],
+  "dataset_granularity": "by_competitor",
+  "dataset_splits": [
+    "new_prices",
+    "new_products"
+  ],
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh10\\by_competitor\\COUNTRY_2_B2C_COMPETITOR_3_COUNTRY_2_2026-02-08\\template_cache.joblib",
+  "cache_metadata_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh10\\by_competitor\\COUNTRY_2_B2C_COMPETITOR_3_COUNTRY_2_2026-02-08\\cache_metadata.json",
+  "attempt_seeds": [
+    42
+  ],
+  "attempt_count": 1,
+  "injection_config": {
+    "injection_rate": 0.1,
+    "spike_range": [
+      2.0,
+      5.0
+    ],
+    "drop_range": [
+      0.1,
+      0.5
+    ]
+  },
+  "search_space": {
+    "param_order": [
+      "threshold",
+      "w"
+    ],
+    "coarse_grid": {
+      "threshold": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "w": [
+        0.3,
+        0.4,
+        0.5,
+        0.6,
+        0.7,
+        0.8
+      ]
+    },
+    "refine_radius": {
+      "threshold": 0.5,
+      "w": 0.1
+    },
+    "refine_step": {
+      "threshold": 0.25,
+      "w": 0.05
+    },
+    "clip_bounds": {
+      "threshold": [
+        1.0,
+        6.0
+      ],
+      "w": [
+        0.0,
+        1.0
+      ]
+    },
+    "default_params": {
+      "threshold": 2.0,
+      "w": 0.5
+    }
+  },
+  "candidate_count": 49,
+  "generated_at": "2026-03-26T21:24:18.097402+00:00",
+  "git_commit": "686149c270a63daef357fa3854d7e59ccde27de5",
+  "output_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\1-6coarse_grid_single_attempt_batch\\mh10\\by_competitor\\COUNTRY_2_B2C_COMPETITOR_3_COUNTRY_2_2026-02-08\\hybrid_weighted"
+}

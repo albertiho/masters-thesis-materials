@@ -1,0 +1,3 @@
+run_id,candidate_id,dataset_split,detector_name,anomaly_type,injected_count,detected_count,detection_rate
+modified_mad__threshold_2p000,modified_mad__threshold_2p000,new_prices,modified_mad,price_drop,1,1,1.0
+modified_mad__threshold_2p000,modified_mad__threshold_2p000,new_products,modified_mad,price_drop,1,0,0.0

@@ -1,0 +1,10 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "experiment_family": "tuning",
+  "detector_family": "hybrid_max",
+  "generated_at": "2026-03-28T11:44:10.700180+00:00",
+  "candidate_count": 6,
+  "rank_column": "rank_score",
+  "best_candidate": null
+}

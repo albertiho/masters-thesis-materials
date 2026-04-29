@@ -1,0 +1,24 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "mh_level": "mh15",
+  "granularity": "by_country",
+  "scope_id": "COUNTRY_1/COUNTRY_1_2026-02-08",
+  "dataset_name": "COUNTRY_1",
+  "detector_family": "hybrid_weighted",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\1-6coarse_grid_single_attempt_batch\\mh15\\by_country\\COUNTRY_1_COUNTRY_1_2026-02-08\\hybrid_weighted",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh15\\by_country\\COUNTRY_1_COUNTRY_1_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "running",
+  "completed_stage": "initialized",
+  "active_stage": "coarse_screening",
+  "started_at": "2026-03-27T19:55:44.967411+00:00",
+  "updated_at": "2026-03-27T19:57:55.756657+00:00",
+  "completed_at": "",
+  "error": "",
+  "candidate_count": 0,
+  "candidate_ids": [],
+  "best_candidate_id": ""
+}

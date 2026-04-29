@@ -1,0 +1,19 @@
+# Tuning Summary
+
+- Run ID: `modified_mad__threshold_5p750`
+- Schema version: `phase2.v1`
+- Splits: new_prices, new_products
+- Detector metric rows: 2
+
+## new_prices
+
+| Candidate | Detector | Precision | Recall | F1 | TP | FP | FN | TN |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| modified_mad__threshold_5p750 | modified_mad | 0.4286 | 0.6818 | 0.5263 | 15 | 20 | 7 | 180 |
+
+## new_products
+
+| Candidate | Detector | Precision | Recall | F1 | TP | FP | FN | TN |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| modified_mad__threshold_5p750 | modified_mad | 0.5000 | 0.6338 | 0.5590 | 45 | 45 | 26 | 601 |
+

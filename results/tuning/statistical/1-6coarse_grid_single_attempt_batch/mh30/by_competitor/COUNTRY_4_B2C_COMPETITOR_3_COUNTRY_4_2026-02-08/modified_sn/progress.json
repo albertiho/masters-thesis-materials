@@ -1,0 +1,31 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "mh_level": "mh30",
+  "granularity": "by_competitor",
+  "scope_id": "COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08",
+  "dataset_name": "COMPETITOR_3_COUNTRY_4",
+  "detector_family": "modified_sn",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\1-6coarse_grid_single_attempt_batch\\mh30\\by_competitor\\COUNTRY_4_B2C_COMPETITOR_3_COUNTRY_4_2026-02-08\\modified_sn",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh30\\by_competitor\\COUNTRY_4_B2C_COMPETITOR_3_COUNTRY_4_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "running",
+  "completed_stage": "coarse_screening_complete",
+  "active_stage": "idle",
+  "started_at": "2026-03-28T11:44:10.378141+00:00",
+  "updated_at": "2026-03-28T11:44:10.484654+00:00",
+  "completed_at": "",
+  "error": "",
+  "candidate_count": 6,
+  "candidate_ids": [
+    "modified_sn__threshold_1p000",
+    "modified_sn__threshold_2p000",
+    "modified_sn__threshold_3p000",
+    "modified_sn__threshold_4p000",
+    "modified_sn__threshold_5p000",
+    "modified_sn__threshold_6p000"
+  ],
+  "best_candidate_id": ""
+}

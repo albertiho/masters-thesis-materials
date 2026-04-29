@@ -1,0 +1,35 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "1-6coarse_grid_single_attempt_batch",
+  "mh_level": "mh15",
+  "granularity": "global",
+  "scope_id": "GLOBAL_2026-02-08",
+  "dataset_name": "GLOBAL",
+  "detector_family": "modified_mad",
+  "family_output_dir": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\1-6coarse_grid_single_attempt_batch\\mh15\\global\\GLOBAL_2026-02-08\\modified_mad",
+  "cache_snapshot_path": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning\\mh15\\global\\GLOBAL_2026-02-08\\template_cache.joblib",
+  "attempt_seeds": [
+    42
+  ],
+  "status": "complete",
+  "completed_stage": "finalized",
+  "active_stage": "idle",
+  "started_at": "2026-03-27T23:14:50.872061+00:00",
+  "updated_at": "2026-03-28T01:39:02.591052+00:00",
+  "completed_at": "2026-03-28T01:39:02.591052+00:00",
+  "error": "",
+  "candidate_count": 10,
+  "candidate_ids": [
+    "modified_mad__threshold_1p000",
+    "modified_mad__threshold_2p000",
+    "modified_mad__threshold_3p000",
+    "modified_mad__threshold_3p500",
+    "modified_mad__threshold_3p750",
+    "modified_mad__threshold_4p000",
+    "modified_mad__threshold_4p250",
+    "modified_mad__threshold_4p500",
+    "modified_mad__threshold_5p000",
+    "modified_mad__threshold_6p000"
+  ],
+  "best_candidate_id": "modified_mad__threshold_3p500"
+}
