@@ -1,0 +1,41 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "no_avg_hybrid_weighted_single_attempt_batch",
+  "experiment_family": "tuning",
+  "detector_families": [
+    "hybrid_weighted"
+  ],
+  "generated_at": "2026-03-29T09:17:28.273662+00:00",
+  "scope_count": 102,
+  "complete_scope_count": 98,
+  "error_scope_count": 4,
+  "skipped_scope_count": 0,
+  "best_configuration_count": 98,
+  "config": {
+    "data_subsets_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets",
+    "cache_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning",
+    "output_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\no_avg_hybrid_weighted_single_attempt_batch",
+    "attempt_seeds": [
+      42
+    ],
+    "detectors": [
+      "hybrid_weighted"
+    ],
+    "mh_values": [
+      "mh5",
+      "mh10",
+      "mh15",
+      "mh20",
+      "mh25",
+      "mh30"
+    ],
+    "granularities": [
+      "global",
+      "by_competitor",
+      "by_country"
+    ],
+    "max_workers": 2,
+    "resume": true,
+    "rebuild_cache": false
+  }
+}

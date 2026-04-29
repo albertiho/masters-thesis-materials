@@ -1,0 +1,114 @@
+# Statistical Sweep Summary
+
+- Sweep ID: `no_avg_hybrid_weighted_single_attempt_batch`
+- Detector families: hybrid_weighted
+- Complete scopes: 98
+- Error scopes: 4
+- Skipped scopes: 0
+- Best configurations: 98
+
+| Scope | Status | Succeeded | Failed |
+| --- | --- | ---: | ---: |
+| mh10/by_competitor/COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_1/B2C/COMPETITOR_2_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_1/B2C/COMPETITOR_3_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_2/B2B/COMPETITOR_1_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_2/B2C/COMPETITOR_2_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_2/B2C/COMPETITOR_3_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_3/B2B/COMPETITOR_1_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_3/B2C/COMPETITOR_2_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_3/B2C/COMPETITOR_3_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_4/B2B/COMPETITOR_1_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_4/B2C/COMPETITOR_2_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh10/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh10/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh10/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh10/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh10/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh10/global/GLOBAL_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_1/B2C/COMPETITOR_2_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_1/B2C/COMPETITOR_3_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_2/B2B/COMPETITOR_1_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_2/B2C/COMPETITOR_2_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_2/B2C/COMPETITOR_3_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_3/B2B/COMPETITOR_1_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_3/B2C/COMPETITOR_2_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_3/B2C/COMPETITOR_3_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_4/B2B/COMPETITOR_1_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_4/B2C/COMPETITOR_2_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh15/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08 | error | 0 | 1 |
+| mh15/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh15/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh15/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh15/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh15/global/GLOBAL_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_1/B2C/COMPETITOR_2_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_1/B2C/COMPETITOR_3_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_2/B2B/COMPETITOR_1_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_2/B2C/COMPETITOR_2_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_2/B2C/COMPETITOR_3_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_3/B2B/COMPETITOR_1_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_3/B2C/COMPETITOR_2_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_3/B2C/COMPETITOR_3_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_4/B2B/COMPETITOR_1_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_4/B2C/COMPETITOR_2_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh20/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08 | error | 0 | 1 |
+| mh20/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh20/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh20/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh20/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh20/global/GLOBAL_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_1/B2C/COMPETITOR_2_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_1/B2C/COMPETITOR_3_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_2/B2B/COMPETITOR_1_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_2/B2C/COMPETITOR_2_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_2/B2C/COMPETITOR_3_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_3/B2B/COMPETITOR_1_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_3/B2C/COMPETITOR_2_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_3/B2C/COMPETITOR_3_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_4/B2B/COMPETITOR_1_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_4/B2C/COMPETITOR_2_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh25/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08 | error | 0 | 1 |
+| mh25/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh25/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh25/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh25/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh25/global/GLOBAL_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_1/B2C/COMPETITOR_2_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_1/B2C/COMPETITOR_3_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_2/B2B/COMPETITOR_1_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_2/B2C/COMPETITOR_2_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_2/B2C/COMPETITOR_3_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_3/B2B/COMPETITOR_1_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_3/B2C/COMPETITOR_2_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_3/B2C/COMPETITOR_3_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_4/B2B/COMPETITOR_1_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_4/B2C/COMPETITOR_2_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh30/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08 | error | 0 | 1 |
+| mh30/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh30/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh30/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh30/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh30/global/GLOBAL_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_1/B2B/COMPETITOR_1_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_1/B2C/COMPETITOR_2_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_1/B2C/COMPETITOR_3_COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_2/B2B/COMPETITOR_1_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_2/B2C/COMPETITOR_2_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_2/B2C/COMPETITOR_3_COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_3/B2B/COMPETITOR_1_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_3/B2C/COMPETITOR_2_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_3/B2C/COMPETITOR_3_COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_4/B2B/COMPETITOR_1_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_4/B2C/COMPETITOR_2_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh5/by_competitor/COUNTRY_4/B2C/COMPETITOR_3_COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh5/global/GLOBAL_2026-02-08 | complete | 1 | 0 |
+
