@@ -1,0 +1,116 @@
+# Statistical Sweep Summary
+
+- Sweep ID: `by_country_single_attempt_batch`
+- Detector families: standard_zscore
+- Complete scopes: 104
+- Error scopes: 0
+- Skipped scopes: 0
+- Best configurations: 104
+
+| Scope | Status | Succeeded | Failed |
+| --- | --- | ---: | ---: |
+| mh10/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh10/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh10/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh10/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh11/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh11/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh11/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh11/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh12/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh12/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh12/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh12/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh13/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh13/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh13/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh13/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh14/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh14/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh14/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh14/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh15/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh15/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh15/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh15/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh16/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh16/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh16/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh16/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh17/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh17/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh17/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh17/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh18/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh18/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh18/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh18/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh19/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh19/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh19/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh19/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh20/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh20/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh20/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh20/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh21/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh21/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh21/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh21/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh22/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh22/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh22/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh22/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh23/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh23/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh23/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh23/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh24/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh24/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh24/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh24/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh25/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh25/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh25/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh25/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh26/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh26/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh26/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh26/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh27/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh27/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh27/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh27/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh28/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh28/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh28/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh28/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh29/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh29/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh29/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh29/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh30/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh30/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh30/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh30/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh5/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh6/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh6/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh6/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh6/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh7/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh7/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh7/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh7/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh8/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh8/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh8/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh8/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+| mh9/by_country/COUNTRY_1/COUNTRY_1_2026-02-08 | complete | 1 | 0 |
+| mh9/by_country/COUNTRY_2/COUNTRY_2_2026-02-08 | complete | 1 | 0 |
+| mh9/by_country/COUNTRY_3/COUNTRY_3_2026-02-08 | complete | 1 | 0 |
+| mh9/by_country/COUNTRY_4/COUNTRY_4_2026-02-08 | complete | 1 | 0 |
+

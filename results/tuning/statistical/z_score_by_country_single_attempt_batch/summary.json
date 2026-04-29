@@ -1,0 +1,32 @@
+{
+  "schema_version": "phase2.v1",
+  "sweep_id": "by_country_single_attempt_batch",
+  "experiment_family": "tuning",
+  "detector_families": [
+    "standard_zscore"
+  ],
+  "generated_at": "2026-03-23T04:30:44.897424+00:00",
+  "scope_count": 104,
+  "complete_scope_count": 104,
+  "error_scope_count": 0,
+  "skipped_scope_count": 0,
+  "best_configuration_count": 104,
+  "config": {
+    "data_subsets_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\data-subsets",
+    "cache_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\artifacts\\cache\\statistical_tuning",
+    "output_root": "C:\\Users\\Administrator\\Desktop\\dippa\\src\\results\\tuning\\statistical\\by_country_single_attempt_batch",
+    "attempt_seeds": [
+      42
+    ],
+    "detectors": [
+      "standard_zscore"
+    ],
+    "mh_values": null,
+    "granularities": [
+      "by_country"
+    ],
+    "max_workers": 6,
+    "resume": true,
+    "rebuild_cache": false
+  }
+}
